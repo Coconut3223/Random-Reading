@@ -26,3 +26,10 @@
 
 [蒙特卡洛积分](https://zhuanlan.zhihu.com/p/146144853)
 
+
+# NLP
+
+## evaluated by gpt
+[paper: PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](https://arxiv.org/abs/2306.05087)
+
+
