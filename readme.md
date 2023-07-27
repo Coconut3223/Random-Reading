@@ -33,3 +33,7 @@
 [paper: PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](https://arxiv.org/abs/2306.05087)
 
 
+# ASR
+
+[Automatic Speech Recognition Errors Detection and Correction: A Review](https://www.sciencedirect.com/science/article/pii/S1877050918302187)
+
